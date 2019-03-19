@@ -1,0 +1,101 @@
+No,Tanda dan Gejala (Query),Nama Penyakit (Data Diagnosis)
+1,"menggigil, demam, sakit kepala",Malaria (bentuk benigma)
+2,"Kaku kuduk, penurunan",Meningitis + perdarahan subarachnoid
+3,"Mata lengket, mata berair, pandangan sedikit kabur, kelopak mata membengkak",
+4,"Pipi bengkak, nyeri saat mengunyah, nyeri testis",Parotitis
+5,"Gusi bengkak, gusi kemerahan, gusi berdarah",
+6,"Sakit gigi, gigi sensitif pada makanan dingin atau panas, gusi bengkak",Karies dentis
+7,"Hidung tersumbat, bersin, batuk, sakit tenggorokan",Common cold
+8,"Hidung keluar lendir, choncae nasal kebiruan, bersin-bersin",Rinitis alergi
+9,"Hidung berlendir, demam, choncae nasal kemerahan, bersin-bersin",Rinitis bacterial
+10,"Hidung bau, nyeri di dalam hidung, ada krusta di dalam hidung",Rinitis sika
+11,"Cuping telinga sakit, cuping telinga berdungkul-dungkul, demam",Perikondritis
+12,"Telinga sakit, keluar lendir dari telinga, pendengaran tidak terganggu, nyeri mengunyah",Otitis eksterna
+13,"Nyeri telinga, telinga terasa penuh, bisa demam",Otitis media stadium oklusi
+14,"Nyeri telinga, mukosa telinga edem, gendang telinga kemerahan",Otitis media stadium hiperemis
+15,"Nyeri telinga hebat, demam tinggi, gendang telinga menonjol (bulging)",Otitis media stadium supurasi
+16,"Nyeri telinga, keluar nanah dari telinga, demam berkurang",Otitis media stadium perforasi
+17,"Sakit tenggorokan, demam, faring berwarna merah",Faringitis
+18,"Suara serak, demam, sakit kerongkongan",Laringitis
+19,"Batuk lebih dari tiga minggu, sesak napas atau nyeri dada, dahak berdarah, keringat malam, nafsu makan berkurang, berat badan menurun",
+20,"Demam, menggigil, suhu tubuh meningkat, batuk berdahak kadang disertai darah, sesak nafas, nyeri dada",
+21,"Batuk, batuk darah, sesak napas, demam berulang, napas baru, napas bau",Bronkiektasis
+22,"Demam, menggigil, batuk produktif dengan sputum amis, sputum kuning kehijauan",Abses paru
+23,"Nyeri ulu hati, nyeri jika belum makan, lemas",Gastritis
+24,"Nyeri perut sebelah kanan atas, perut terasa begah/kembung, pipis seperti teh, feses warna pucat.",Hepatitis
+25,"Nyeri perut kanan atas, pipis seperti teh, perempuan, obesitas, fertile, feses warna pucat, demam",Cholesistitis
+26,"Nyeri perut sebelah kanan bawah, awalnya nyeri di sekitar daerah pusar, lemas",Appendicitis
+27,"Nyeri di seluruh bagian perut, tidak nafsu makan, BAB terganggu",Peritonitis
+28,"BAB berdarah, nyeri perut, BAB berlendir",Kolitis
+29,"Diare dengan feses seperti cucian beras, dehidrasi, lemas, muntah hebat",Kolera
+30,"Demam, muntah, diare cair, ampas sedikit seperti biji Lombok, feses asam",
+31,"Diare cair dengan ampas banyak, volume banyak, nyeri saat BAB",Diare bacterial
+32,"Feses berdarah, riwayat makanan tidak bersih, diare tidak terlalu sering",Disentri
+33,"Demam, kaku tubuh, kaku rahang",Tetanus
+34,"Demam, kelemahan otot, hipotonia",Botulisme Infantilis
+35,"Nyeri saat berhubungan seks, nyeri daerah pinggul, sekret mucoid dari vagina",Servisitis
+36,"Demam, pembengkakan pada KGB (kelenjar getah bening), tubuh terasa sakit, memerah dan membengkak.",Filariasis
+37,"Nyeri kolik daerah pinggang, malaise, mual, kencing bisa berdarah",
+38,"Nyeri pinggang, kencing mikrohematuria, demam",Pyelonephritis
+39,"Nyeri saat kencing, kencing bernanah, demam, riwayat seks bebas atau oral seks",Gonore
+40,"Luka tidak nyeri di daerah penis, riwayat seks bebas, demam",Sifilis
+41,"Demam sore hari, diare, tubuh lemas",Typhoid
+42,"Demam tinggi, diare, mual muntah",Shigellosis
+43,"Batuk hebat dengan suara melengking, gelisah, bersin-bersin",Pertussis
+44,"Demam, nyeri, vesikel dengan persebaran sesuai dermatom. Warna merah",Herpes zoster
+45,"Vesikul di kulit berbentuk kubah berisi delle (seperti nasi), demam, lemas",Moluscum contagiosum
+46,"Demam pola pelana kuda, bitnik-bintik merah di kulit, lemas, dehidrasi, riwayat digigit nyamuk",DBD
+47,"bercak tipis seperti panu di badan yang lama-lama menyebar, bintil-bintil kemerahan, alis rambut rontok, muka benjol-benjol dan tegang, kulit menipis dan mengkilat",Kusta
+48,"Nyeri di daerah pinggang secara menyeluruh, demam, malaise",Pelvic inflammatory disease
+49,"Demam, kulit kemerahan, vesikel dengan pola garis lurus, riwayat digigit tomcat",Dermatitis venenata
+50,"Sering kencing, nyeri di daerah perut bagian bawah, demam, sakit saat kencing",Sistitis
+51,"timbul papula yang akan berubah segera menjadi vesikuler yang berisi cairan berwarna biru gelap, demam subfebris, sakit kepala",Antrax Kutaneus
+52,"Demam, nyeri perut, mual muntah, lemas, muntah darah, diare berdarah, selera makan turun",Antrax intestinal
+53,"mual, muntah, kram perut, mulut kering dan diare. Gejala saraf:pandangan kabur, kelopak mata jatuh, fotofobia, kekakuan sendi, gangguan bicara dan tidak dapat menelan makanan. Kelemahan otot (otot penggerak kepala, otot lengan atas, otot pernapasan, otot tungkai bagian bawah.",Botulismus
+54,"nyeri pelvic, secret mikropurulen, erosi serviks",Servisitis
+55,"Nyeri abdomen bawah, serviks, uterus dan limfonodus, menggigil, panas, pendarahan vagina, pengeluaran secret vagina, disuria",Salpingitis
+56,"disuria, piuria, sering kencing nyeri tekan pada meatus",Sindrom Uretra
+57,"nyeri tekan pada meatus uretra, pruritis dan sekret uretra, eritema, disuria",Uretritis
+58,"Nyeri punggung bawah, ejakulasi yang nyeri, nokturia, disuria",Prostatitis
+59,"pembengkakan skrotum yang nyeri dan kemerahan, sekret uretra, rasa nyeri pada testis dan skrotum, daerah paha dan pangkal paha",Epididimis
+60,"Nyeri, fotofobia, rasa gatal dan panas seperti terbakar",Konjungtivitis
+61,"Diare, pruritis, ulserasi difus/diskrit pada kolon rektosigmoid",Proktitis
+62,"uretritis yang meliputi disuria, pembengkakan pada tempat infeksi, asimptomatik",Gonore (L)
+63,"Malaise,menggigil, nyeri punggung",Listeriosis
+64,"demam, menggigil,sakit kepala,kaku kuduk,muntah,letargi,brakikar di, ruam kadang terjadi",Meningitis
+65,"nyeri telinga, drainase telinga, vertigo, tinitus",Otitis media
+66,"malaise dan demam, nyeri pada kelenjar limfe regional, daerah hemorragik mengalami nekrosis",Plague (Penyakit Pes bubo)
+67,"demam tinggi, takikardia, takipnea, batuk produktif",Primary pneumonic plague (penyakit pes paru
+68,"suhu tubuh tinggi, batuk disertai sputum yang purulent berwarna kuning atau berdarah, dipnea, ronki disertai penurunan bunyi napas",Pneumonia
+69,"nyeri abdomen, diare hebat, demam",Salmonelosis
+70,"demam tinggi, sakit kepala, konstipasi",Infeksi Tifoid
+71,"diare disertai tenesmus, mual, muntah, nyeri disertai distensi abdomen, feses mengandung pus, mukusm dan darah, dehidrasi, penurunan berat badan",Shigolisis Anak
+72,"muncul luka atau tukak, luka tidak menimbulkan rasa sakit,luka berkembang pada bagian tubuh seperti pada penis, vagina, anus serta dapat muncul di mulut atau bibir, amandel, atau jari",Sifilis Primer
+73,"spasme dan peningkatan tonus otot dekat luka, sulitnya mengunyah dan menelan makanan akibat dari kejang otot, kejang otot pada daerah yang terkena luka",Tetanus Lokal
+74,"Demam, keringat malam, batuk, nyeri dada pleuritic, obstruksi saluran pernapasan",Tuberkulosis
+75,"nyeri saat berkemih, rasa ingin kencing tapi tidak bisa, urin lebih berbau, nyeri di suprapubic",infeksi Saluran Kemih (Sistitis)
+76,"demam tidak tinggi, bersin-bersin, infeksi konjungtiva, anorexia",Batuk Rejan (Pertusis)
+77,"ruam yang gatal terdri dari macula-makula kecil, lesi dan demam lebih dari tujuh hari, pembentukan parut pada ekstremitas",
+78,"tenggorok yang nyeri, merah dan bengkak, peningkatan salivasi, nyeri hebat pada mulut, pembentukan vesikel pada lidah, gingiva, dan mukosa pipi, warna lesi merah",Herpes Simpleks Tipe 1
+79,"vesikel yang terlokasilisasi berisi cairan dan ditemukan pada serviks, lania, vulva, kulit perianal, vagina atau batang penis, parastesis di daerah yang terkena, disuria",Herpes Simpleks Tipe 2
+80,"nyeri pada dermatom saraf, priritis, perestesia pada batang tubuh atau lengan, lesi kulit kecil-kecil berwarna merah",Herpes Zoster
+81,"penurunan berat badan cepat, batuk kering, demam kambuhan, mudah letih tidak jelas penyebabnya, pembengkakan nodus limfe pada daerah aksila, lipat paha atau leher, diare yang berlangsung lebih dari satu minggu",Infeksi HIV
+82,"nyeri tenggorokan, limfadenopati serviks, suhu tubuh berfluktuasi dan mencapai puncak pada malam hari, hepatomegaly, stomatitis",Mononukleosis Infeksioma
+83,"Mialgia, nyeri telinga ketika mengunyah, pembengkakan pada kelenar parotis, pembengkakan pada kelenjar ludah",Gondongan
+84,"kongesti nasal, batuk, bersin- bersin, malaise,nyeri tenggorokan, nyeri telinga, dyspnea, demam",Infeksi Virus Syncitial Respiratorius (Penyakit ringan)
+85,"pernapasan cuping hidung, retraksi pernapasan, sianosis, takipnea","Infeksi Virus Syncitial Respiratorius (Bronkitis, Pneumonia, Bronkitilis)"
+86,"makula kecil-kecil berwarna merah pada palatum mole, ruam makulopapuler agak gatal dimulai di wajah dan menyebar ke seluruh badan, nyeri tenggoroka, batuk",Rubela (campak jerman)
+87,"sakit kepala, nyeri punggung,serangan kejang pada anak, muntah pada anak, nyeri tenggorokan dan batuk",Cacar
+88,"Anemia,ulkus pada orofaring, penyakit pernapasan ringan serupa dengan salesma berat atau influenza",Histoplasmosis primer akut
+89,"Demam, menggigil, sakit kepala, mialgia",Malaria (bentuk benigma)
+90,"ruam disertai pruritus yang timbul sepintas pada tempat penetrasi serkaria, demam, myalgia, batuk",Skistosomiasis
+91,"Korioretinitis, bercak seperti kapas yang menonjol dan berwarna putih-kuning, gangguan penglihatan",Taksoplasmosis okuler
+92,"Malaise, sakit kepala, nyeri tenggorokan, ruam makulopapuler",Taksoplasmosis Akuisita
+93,"hidrosefalus/mikrosefalus, serangan kejang, ikterus, purpura, ruam",Kongenital
+94,"Asimptomatik, inflamasi dan rabas berwarna kuning kehijuauan",Gonore (Perempuan)
+95,"Malaise, panas, sakit kepala, mialgia, menggigil",Antrax inhalasi
+96,"kenaikan cairan gingival, gusi merah dan bengkak, berdarah ketika gosok gigi atau pemeriksaan pada gigi, konsistensi lunak mukopurulen, gatal, berair.",Gingivitis
+97,"Mata merah dan benjolan pada kelopak kanan disertai nyeri dan merah, terdapat secret",Conjunctivitis
+98,"telinga mengeluarkan nanah, daun telinga membengkak, merah, panas, terasa nyeri, jika ditekan terasa sakit, pembengkakan daun telinga menjalar ke bagian belakang daun telinga sehingga sangat menonjol",Perikondritis
+99,"inflamasi eksudatif dan gatal,nyeri telinga, gatal, telinga terasa penuh, suara berdengung, telinga tersumbat, dengan tanda khas terdapat hifa dan spora, sekret.",Otomikosis
+100,"demam, muntah, sakit perut, dehidrasi",Diare virus
